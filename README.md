@@ -57,6 +57,14 @@ El sistema reporta:
 
 ---
 
+## Demo online
+
+El sistema está desplegado en Vercel:
+
+**[https://optiprice-deploy.vercel.app](https://optiprice-deploy.vercel.app)**
+
+---
+
 ## Instalación y ejecución local
 
 ```bash
